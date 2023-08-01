@@ -13,17 +13,13 @@
 ## Установка(Windows)
 -Убедитесь что у вас установлен Make, Cmake, SFML, MinGW.
 
-Скачайте SFML по этой ссылке(По умолчанию она добавлена в проект) можете не скачивать
-
-https://www.sfml-dev.org/download/sfml/2.5.1/
+Скачайте SFML по этой [ссылке](https://www.sfml-dev.org/download/sfml/2.5.1/)(По умолчанию она добавлена в проект) можете не скачивать
 
 GCC 7.3.0 MinGW (SEH) - 64-bit
 
 MinGw можете скачать по этой же ссылке
 
-Make- ссылка на туториал 
-
-https://leangaurav.medium.com/how-to-setup-install-gnu-make-on-windows-324480f1da69
+Make- ссылка на [туториал](https://leangaurav.medium.com/how-to-setup-install-gnu-make-on-windows-324480f1da69)(используйте VPN)
 
 - Создайте директорию `build` в корневой папке проекта
 - Перейдите в директорию `build`
@@ -33,9 +29,7 @@ https://leangaurav.medium.com/how-to-setup-install-gnu-make-on-windows-324480f1d
 ## Установка(Linux)
 -Убедитесь что у вас установлен Make, Cmake, SFML, MinGW.
 
-Скачайте SFML по этой ссылке
-
-https://www.sfml-dev.org/download/sfml/2.5.1/
+Скачайте SFML по этой [ссылке](https://www.sfml-dev.org/download/sfml/2.5.1/)
 
 GCC - 64-bit
 
@@ -44,6 +38,7 @@ GCC - 64-bit
 У вас должно получиться Pacman/SFML/(include lib share)
 
 Раскомментировать 21ю строку в файле CMakeLists.txt
+
 И закомментировать 22ю строчку в файле CMakeLists.txt 
 
 - Создайте директорию `build` в корневой папке проекта
