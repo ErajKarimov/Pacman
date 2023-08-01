@@ -1,0 +1,3 @@
+D:/FILES PROGRAM/SibirC++/Pacman/cmake-build-debug/CMakeFiles/Pacman.dir
+D:/FILES PROGRAM/SibirC++/Pacman/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/FILES PROGRAM/SibirC++/Pacman/cmake-build-debug/CMakeFiles/rebuild_cache.dir

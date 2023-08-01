@@ -1,0 +1,11 @@
+# ninja log v5
+8	3090	7061693481304170	CMakeFiles/Pacman.dir/Source/ConvertSketch.cpp.obj	67bc040dddd3efe3
+1	290	7062041084255059	build.ninja	fdae03fe03659881
+22	2121	7061694389166013	CMakeFiles/Pacman.dir/Source/GhostManager.cpp.obj	a660cbb07f2129dc
+19	3338	7061693483714180	CMakeFiles/Pacman.dir/Source/DrawMap.cpp.obj	ca8d46c58c5f7cb8
+3384	5751	7061693507924149	CMakeFiles/Pacman.dir/Source/DrawText.cpp.obj	c344354f096e3ddc
+6	2481	7061697581833823	CMakeFiles/Pacman.dir/Source/Main.cpp.obj	2c6a8084f5689806
+6	2382	7061694391695991	CMakeFiles/Pacman.dir/Source/Ghost.cpp.obj	753d5d31ba4cc288
+5677	6146	7061693511914170	CMakeFiles/Pacman.dir/Source/MapCollision.cpp.obj	9565c196056b60fe
+5751	7255	7061693522994351	CMakeFiles/Pacman.dir/Source/Pacman.cpp.obj	6e8cb010f956ca64
+2481	3065	7061697587603806	Pacman.exe	ff803331b1d5478e
